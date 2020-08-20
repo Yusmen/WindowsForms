@@ -1,0 +1,9 @@
+C:\Users\usmenzabanov\Desktop\WindowsForms\DrawingHouses\Picture2\bin\Debug\Picture2.exe.config
+C:\Users\usmenzabanov\Desktop\WindowsForms\DrawingHouses\Picture2\bin\Debug\Picture2.exe
+C:\Users\usmenzabanov\Desktop\WindowsForms\DrawingHouses\Picture2\bin\Debug\Picture2.pdb
+C:\Users\usmenzabanov\Desktop\WindowsForms\DrawingHouses\Picture2\obj\Debug\Picture2.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\Desktop\WindowsForms\DrawingHouses\Picture2\obj\Debug\Picture2.Form1.resources
+C:\Users\usmenzabanov\Desktop\WindowsForms\DrawingHouses\Picture2\obj\Debug\Picture2.Properties.Resources.resources
+C:\Users\usmenzabanov\Desktop\WindowsForms\DrawingHouses\Picture2\obj\Debug\Picture2.csproj.GenerateResource.cache
+C:\Users\usmenzabanov\Desktop\WindowsForms\DrawingHouses\Picture2\obj\Debug\Picture2.exe
+C:\Users\usmenzabanov\Desktop\WindowsForms\DrawingHouses\Picture2\obj\Debug\Picture2.pdb
