@@ -1,0 +1,8 @@
+C:\Users\usmenzabanov\Desktop\WindowsForms\DrawingFigures\DrawingFigures\bin\Debug\DrawingFigures.exe.config
+C:\Users\usmenzabanov\Desktop\WindowsForms\DrawingFigures\DrawingFigures\bin\Debug\DrawingFigures.exe
+C:\Users\usmenzabanov\Desktop\WindowsForms\DrawingFigures\DrawingFigures\bin\Debug\DrawingFigures.pdb
+C:\Users\usmenzabanov\Desktop\WindowsForms\DrawingFigures\DrawingFigures\obj\Debug\DrawingFigures.Properties.Resources.resources
+C:\Users\usmenzabanov\Desktop\WindowsForms\DrawingFigures\DrawingFigures\obj\Debug\Zadacha_3_b.csproj.GenerateResource.cache
+C:\Users\usmenzabanov\Desktop\WindowsForms\DrawingFigures\DrawingFigures\obj\Debug\DrawingFigures.exe
+C:\Users\usmenzabanov\Desktop\WindowsForms\DrawingFigures\DrawingFigures\obj\Debug\DrawingFigures.pdb
+C:\Users\usmenzabanov\Desktop\WindowsForms\DrawingFigures\DrawingFigures\obj\Debug\Zadacha_3_b.csprojAssemblyReference.cache

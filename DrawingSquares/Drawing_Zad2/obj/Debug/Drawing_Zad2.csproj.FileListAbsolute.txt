@@ -1,0 +1,8 @@
+C:\Users\usmenzabanov\Desktop\WindowsForms\DrawingSquares\Drawing_Zad2\bin\Debug\Drawing_Zad2.exe.config
+C:\Users\usmenzabanov\Desktop\WindowsForms\DrawingSquares\Drawing_Zad2\bin\Debug\Drawing_Zad2.exe
+C:\Users\usmenzabanov\Desktop\WindowsForms\DrawingSquares\Drawing_Zad2\bin\Debug\Drawing_Zad2.pdb
+C:\Users\usmenzabanov\Desktop\WindowsForms\DrawingSquares\Drawing_Zad2\obj\Debug\Drawing_Zad2.Properties.Resources.resources
+C:\Users\usmenzabanov\Desktop\WindowsForms\DrawingSquares\Drawing_Zad2\obj\Debug\Drawing_Zad2.csproj.GenerateResource.cache
+C:\Users\usmenzabanov\Desktop\WindowsForms\DrawingSquares\Drawing_Zad2\obj\Debug\Drawing_Zad2.exe
+C:\Users\usmenzabanov\Desktop\WindowsForms\DrawingSquares\Drawing_Zad2\obj\Debug\Drawing_Zad2.pdb
+C:\Users\usmenzabanov\Desktop\WindowsForms\DrawingSquares\Drawing_Zad2\obj\Debug\Drawing_Zad2.csprojAssemblyReference.cache

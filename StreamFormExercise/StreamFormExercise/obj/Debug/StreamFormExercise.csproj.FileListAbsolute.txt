@@ -1,0 +1,9 @@
+C:\Users\usmenzabanov\Desktop\WindowsForms\StreamFormExercise\StreamFormExercise\bin\Debug\StreamFormExercise.exe.config
+C:\Users\usmenzabanov\Desktop\WindowsForms\StreamFormExercise\StreamFormExercise\bin\Debug\StreamFormExercise.exe
+C:\Users\usmenzabanov\Desktop\WindowsForms\StreamFormExercise\StreamFormExercise\bin\Debug\StreamFormExercise.pdb
+C:\Users\usmenzabanov\Desktop\WindowsForms\StreamFormExercise\StreamFormExercise\obj\Debug\StreamFormExercise.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\Desktop\WindowsForms\StreamFormExercise\StreamFormExercise\obj\Debug\StreamFormExercise.Form1.resources
+C:\Users\usmenzabanov\Desktop\WindowsForms\StreamFormExercise\StreamFormExercise\obj\Debug\StreamFormExercise.Properties.Resources.resources
+C:\Users\usmenzabanov\Desktop\WindowsForms\StreamFormExercise\StreamFormExercise\obj\Debug\StreamFormExercise.csproj.GenerateResource.cache
+C:\Users\usmenzabanov\Desktop\WindowsForms\StreamFormExercise\StreamFormExercise\obj\Debug\StreamFormExercise.exe
+C:\Users\usmenzabanov\Desktop\WindowsForms\StreamFormExercise\StreamFormExercise\obj\Debug\StreamFormExercise.pdb
