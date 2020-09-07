@@ -1,0 +1,9 @@
+C:\Users\usmenzabanov\Desktop\WindowsForms\RichTextBoxExercise\RichTextBoxExercise\bin\Debug\RichTextBoxExercise.exe.config
+C:\Users\usmenzabanov\Desktop\WindowsForms\RichTextBoxExercise\RichTextBoxExercise\bin\Debug\RichTextBoxExercise.exe
+C:\Users\usmenzabanov\Desktop\WindowsForms\RichTextBoxExercise\RichTextBoxExercise\bin\Debug\RichTextBoxExercise.pdb
+C:\Users\usmenzabanov\Desktop\WindowsForms\RichTextBoxExercise\RichTextBoxExercise\obj\Debug\RichTextBoxExercise.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\Desktop\WindowsForms\RichTextBoxExercise\RichTextBoxExercise\obj\Debug\RichTextBoxExercise.Form1.resources
+C:\Users\usmenzabanov\Desktop\WindowsForms\RichTextBoxExercise\RichTextBoxExercise\obj\Debug\RichTextBoxExercise.Properties.Resources.resources
+C:\Users\usmenzabanov\Desktop\WindowsForms\RichTextBoxExercise\RichTextBoxExercise\obj\Debug\RichTextBoxExercise.csproj.GenerateResource.cache
+C:\Users\usmenzabanov\Desktop\WindowsForms\RichTextBoxExercise\RichTextBoxExercise\obj\Debug\RichTextBoxExercise.exe
+C:\Users\usmenzabanov\Desktop\WindowsForms\RichTextBoxExercise\RichTextBoxExercise\obj\Debug\RichTextBoxExercise.pdb

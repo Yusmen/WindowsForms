@@ -1,0 +1,4 @@
+C:\Users\usmenzabanov\Desktop\WindowsForms\ListBoxExercise\ListBoxExercise\bin\Debug\netcoreapp3.0\ListBoxExercise.exe
+C:\Users\usmenzabanov\Desktop\WindowsForms\ListBoxExercise\ListBoxExercise\obj\Debug\netcoreapp3.0\ListBoxExercise.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\Desktop\WindowsForms\ListBoxExercise\ListBoxExercise\obj\Debug\netcoreapp3.0\ListBoxExercise.AssemblyInfoInputs.cache
+C:\Users\usmenzabanov\Desktop\WindowsForms\ListBoxExercise\ListBoxExercise\obj\Debug\netcoreapp3.0\ListBoxExercise.AssemblyInfo.cs

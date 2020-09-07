@@ -1,0 +1,8 @@
+C:\Users\usmenzabanov\Desktop\WindowsForms\DrawingElipses\DrawingTriangleWithElipse\bin\Debug\DrawingTriangleWithElipse.exe.config
+C:\Users\usmenzabanov\Desktop\WindowsForms\DrawingElipses\DrawingTriangleWithElipse\bin\Debug\DrawingTriangleWithElipse.exe
+C:\Users\usmenzabanov\Desktop\WindowsForms\DrawingElipses\DrawingTriangleWithElipse\bin\Debug\DrawingTriangleWithElipse.pdb
+C:\Users\usmenzabanov\Desktop\WindowsForms\DrawingElipses\DrawingTriangleWithElipse\obj\Debug\DrawingTriangleWithElipse.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\Desktop\WindowsForms\DrawingElipses\DrawingTriangleWithElipse\obj\Debug\DrawingTriangleWithElipse.Properties.Resources.resources
+C:\Users\usmenzabanov\Desktop\WindowsForms\DrawingElipses\DrawingTriangleWithElipse\obj\Debug\DrawingTriangleWithElipse.csproj.GenerateResource.cache
+C:\Users\usmenzabanov\Desktop\WindowsForms\DrawingElipses\DrawingTriangleWithElipse\obj\Debug\DrawingTriangleWithElipse.exe
+C:\Users\usmenzabanov\Desktop\WindowsForms\DrawingElipses\DrawingTriangleWithElipse\obj\Debug\DrawingTriangleWithElipse.pdb
