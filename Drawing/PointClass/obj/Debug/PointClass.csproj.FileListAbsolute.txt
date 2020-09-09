@@ -1,0 +1,9 @@
+C:\Users\usmenzabanov\Desktop\WindowsForms\Drawing\PointClass\bin\Debug\PointClass.exe.config
+C:\Users\usmenzabanov\Desktop\WindowsForms\Drawing\PointClass\bin\Debug\PointClass.exe
+C:\Users\usmenzabanov\Desktop\WindowsForms\Drawing\PointClass\bin\Debug\PointClass.pdb
+C:\Users\usmenzabanov\Desktop\WindowsForms\Drawing\PointClass\obj\Debug\PointClass.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\Desktop\WindowsForms\Drawing\PointClass\obj\Debug\PointClass.Form1.resources
+C:\Users\usmenzabanov\Desktop\WindowsForms\Drawing\PointClass\obj\Debug\PointClass.Properties.Resources.resources
+C:\Users\usmenzabanov\Desktop\WindowsForms\Drawing\PointClass\obj\Debug\PointClass.csproj.GenerateResource.cache
+C:\Users\usmenzabanov\Desktop\WindowsForms\Drawing\PointClass\obj\Debug\PointClass.exe
+C:\Users\usmenzabanov\Desktop\WindowsForms\Drawing\PointClass\obj\Debug\PointClass.pdb

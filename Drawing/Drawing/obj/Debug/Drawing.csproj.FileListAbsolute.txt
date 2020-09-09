@@ -1,0 +1,9 @@
+C:\Users\usmenzabanov\Desktop\WindowsForms\Drawing\Drawing\bin\Debug\Drawing.exe.config
+C:\Users\usmenzabanov\Desktop\WindowsForms\Drawing\Drawing\bin\Debug\Drawing.exe
+C:\Users\usmenzabanov\Desktop\WindowsForms\Drawing\Drawing\bin\Debug\Drawing.pdb
+C:\Users\usmenzabanov\Desktop\WindowsForms\Drawing\Drawing\obj\Debug\Drawing.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\Desktop\WindowsForms\Drawing\Drawing\obj\Debug\Drawing.Form1.resources
+C:\Users\usmenzabanov\Desktop\WindowsForms\Drawing\Drawing\obj\Debug\Drawing.Properties.Resources.resources
+C:\Users\usmenzabanov\Desktop\WindowsForms\Drawing\Drawing\obj\Debug\Drawing.csproj.GenerateResource.cache
+C:\Users\usmenzabanov\Desktop\WindowsForms\Drawing\Drawing\obj\Debug\Drawing.exe
+C:\Users\usmenzabanov\Desktop\WindowsForms\Drawing\Drawing\obj\Debug\Drawing.pdb

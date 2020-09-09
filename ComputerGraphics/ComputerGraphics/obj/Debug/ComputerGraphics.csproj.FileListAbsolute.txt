@@ -1,0 +1,9 @@
+C:\Users\usmenzabanov\Desktop\WindowsForms\ComputerGraphics\ComputerGraphics\bin\Debug\ComputerGraphics.exe.config
+C:\Users\usmenzabanov\Desktop\WindowsForms\ComputerGraphics\ComputerGraphics\bin\Debug\ComputerGraphics.exe
+C:\Users\usmenzabanov\Desktop\WindowsForms\ComputerGraphics\ComputerGraphics\bin\Debug\ComputerGraphics.pdb
+C:\Users\usmenzabanov\Desktop\WindowsForms\ComputerGraphics\ComputerGraphics\obj\Debug\ComputerGraphics.csprojAssemblyReference.cache
+C:\Users\usmenzabanov\Desktop\WindowsForms\ComputerGraphics\ComputerGraphics\obj\Debug\ComputerGraphics.Form1.resources
+C:\Users\usmenzabanov\Desktop\WindowsForms\ComputerGraphics\ComputerGraphics\obj\Debug\ComputerGraphics.Properties.Resources.resources
+C:\Users\usmenzabanov\Desktop\WindowsForms\ComputerGraphics\ComputerGraphics\obj\Debug\ComputerGraphics.csproj.GenerateResource.cache
+C:\Users\usmenzabanov\Desktop\WindowsForms\ComputerGraphics\ComputerGraphics\obj\Debug\ComputerGraphics.exe
+C:\Users\usmenzabanov\Desktop\WindowsForms\ComputerGraphics\ComputerGraphics\obj\Debug\ComputerGraphics.pdb
